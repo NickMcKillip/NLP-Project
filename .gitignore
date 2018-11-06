@@ -1,2 +1,4 @@
-data
+data/
+.data/
+.vector_cache/
 .ipynb_checkpoints/
